@@ -48,6 +48,8 @@ img {
 .caixa-direita {
     display: inline-block;
     cursor: default;
+    position: relative;
+    top: -400px;
     
   
 }
