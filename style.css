@@ -104,7 +104,7 @@ p {
 img{ width: 300px;
     height: 250px;
      position: relative;
-    top: 300px;
+    top: 170px;
     margin-left: 39px; 
     margin-right: 45px;
 }
@@ -126,7 +126,7 @@ img{ width: 300px;
 .caixa-direita {display: block;
 cursor:default;
 position: relative;
-top: -200px;
+top: -270px;
 width: 100%;
 height: auto;
 margin: 0 auto;
